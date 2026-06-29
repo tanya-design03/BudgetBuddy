@@ -1,0 +1,2 @@
+password=1234
+budget=800.0
